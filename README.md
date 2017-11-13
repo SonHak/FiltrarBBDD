@@ -1,7 +1,7 @@
 Cogemos el fichero sql que incluye este repositorio llamado world.sql
 donde se encuentra nuestra tabla y hacemos lo siguiente:
 
-Por último, añadimos nuestra tabla a la base de datos de la siguiente
+Añadimos nuestra tabla a la base de datos de la siguiente
 manera:
   mysql -u root -p < "nombre del fichero descomprimido"
 
